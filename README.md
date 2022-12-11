@@ -1,3 +1,3 @@
-RANDRIANARISON Mitia Rindrafaneva Romi
-ETU001866
-Projet streaming 
+- RANDRIANARISON Mitia Rindrafaneva Romi
+- ETU001866
+- Projet streaming 
