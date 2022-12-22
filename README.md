@@ -1,3 +1,7 @@
 - RANDRIANARISON Mitia Rindrafaneva Romi
 - ETU001866
-- Projet streaming 
+- Projet streaming multimedia
+- Fonctionnalité disponible :
+   - streaming audio
+   - streaming image
+   - streaming video
