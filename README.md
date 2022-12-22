@@ -2,6 +2,6 @@
 - ETU001866
 - Projet streaming multimedia
 - Fonctionnalité disponible :
-   - streaming audio
-   - streaming image
-   - streaming video
+   - streaming audio (mp3)
+   - streaming image (jpg)
+   - streaming video (mp4)
